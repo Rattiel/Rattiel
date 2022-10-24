@@ -1,5 +1,5 @@
 # 김종일
-_웹 백엔드 개발자<br>
+웹 백엔드 개발자<br>
 
 [Email](mailto:whddlf0504@icloud.com.com)
 [Phone](010-7666-0421)
