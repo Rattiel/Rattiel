@@ -3,7 +3,7 @@
 
  * 웹 백엔드를 좋아하는 주니어 개발자 입니다. 현재는 Spring Boot, JPA, CI/CD 등등을 공부하고 있습니다.
 
-[이메일](mailto:whddlf0504@icloud.com.com) / [핸드폰](010-7666-0421)
+[이메일](mailto:whddlf0504@icloud.com.com) / [핸드폰:010-7666-0421](010-7666-0421)
 
 ## 👨🏻‍💻 Experience
 
